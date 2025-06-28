@@ -70,10 +70,7 @@ A business analytics dashboard for tracking KPIs and revenue trends using sales 
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ManyaJ04&show_icons=true&theme=transparent" alt="GitHub Stats" />
-
-  <br>
+ 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaJ04&layout=compact&theme=transparent" alt="Top Languages Used" />
 

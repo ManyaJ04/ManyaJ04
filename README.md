@@ -51,9 +51,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jmanya408/)
  
 
----
 
-# ⚡ *"Building, Learning, Growing — One line of code at a time!"* 🚀
 
 
 <!--

@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Manya Jain!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&width=800&lines=Full-Stack+Developer+%7C+Data+Analytics+Enthusiast;Passionate+about+Tech+%7C+Problem+Solver;Learning+and+Building+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&width=800&lines=Data+Analytics+Enthusiast;Passionate+about+Tech+%7C+Problem+Solver;Learning+and+Building+Every+Day)](https://git.io/typing-svg)
 
 ---
 
